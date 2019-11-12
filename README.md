@@ -1,6 +1,6 @@
 # pig_latin
 
-Convert Strings in pig latin
+Convert Strings to pig latin
 
 ## Assignment
 
