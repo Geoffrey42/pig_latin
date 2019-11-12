@@ -20,6 +20,7 @@ pub mod convert {
                 return converted;
             }
         }
-        original.to_string()
+        let converted = format!("{}-{}ay", &original[1..], first_letter.unwrap());
+        return converted;
     }
 }
